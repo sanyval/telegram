@@ -1,0 +1,9 @@
+python-telegram-bot
+telegram
+numpy
+python-dotenv
+matplotlib
+networkx
+requests
+bs4
+Fraction
