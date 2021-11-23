@@ -7,3 +7,5 @@ networkx
 requests
 bs4
 Fraction
+re
+codecs
